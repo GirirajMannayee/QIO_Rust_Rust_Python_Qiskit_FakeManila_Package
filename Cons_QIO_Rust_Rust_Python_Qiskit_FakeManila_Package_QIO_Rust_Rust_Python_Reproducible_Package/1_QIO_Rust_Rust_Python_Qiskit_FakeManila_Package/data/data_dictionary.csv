@@ -1,0 +1,13 @@
+field,description
+trial_id,Unique trial identifier
+scenario,S1-S4 environmental condition
+algorithm,GA PSO or QIO-Rust
+grasp_success,1 successful grasp and 0 otherwise
+response_time_ms,Optimization response time in milliseconds
+force_error_N,Absolute force error in newtons
+collision,1 if collision occurred and 0 otherwise
+proximity_mm,Proximity sensor distance
+tactile_force_N,Tactile/contact force
+imu_motion_index,Illustrative normalized motion index
+measured_bits,Six-bit simulator measurement
+robot_action,Illustrative action label

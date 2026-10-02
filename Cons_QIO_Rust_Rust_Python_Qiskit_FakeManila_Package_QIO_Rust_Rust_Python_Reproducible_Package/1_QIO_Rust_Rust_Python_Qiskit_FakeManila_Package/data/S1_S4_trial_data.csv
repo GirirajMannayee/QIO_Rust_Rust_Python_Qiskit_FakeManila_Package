@@ -1,0 +1,361 @@
+trial_id,scenario,objects,obstacles,environment,algorithm,trial,grasp_success,outcome,response_time_ms,force_error_N,collision,trajectory_length_m,energy_J,convergence_iteration,proximity_mm,tactile_force_N,imu_motion_index,measured_force_N,measured_bits,robot_action
+1,S1,1,0,Open,GA,1,1,Success,78.78,0.837,0,0.516,8.398,187,86.8,0.192,0.013,4.14,110111,Approach-close-lift
+2,S1,1,0,Open,GA,2,0,Failed grasp,93.07,1.038,0,0.406,8.885,182,85.26,0.0,0.003,3.992,001011,Approach-close-lift
+3,S1,1,0,Open,GA,3,0,Failed grasp,88.48,0.748,0,0.512,7.939,196,85.57,0.247,0.046,4.36,000010,Approach-close-lift
+4,S1,1,0,Open,GA,4,1,Success,89.84,0.971,0,0.453,7.745,151,81.2,0.048,0.073,4.136,011110,Approach-close-lift
+5,S1,1,0,Open,GA,5,1,Success,77.61,0.975,0,0.362,8.501,177,80.46,0.014,0.039,4.04,100110,Approach-close-lift
+6,S1,1,0,Open,GA,6,1,Success,87.43,0.949,0,0.41,9.216,131,80.14,0.068,0.006,3.963,100110,Approach-close-lift
+7,S1,1,0,Open,GA,7,1,Success,73.15,0.638,0,0.429,9.149,175,84.73,0.0,0.093,4.344,110001,Approach-close-lift
+8,S1,1,0,Open,GA,8,1,Success,78.24,0.761,0,0.435,7.902,204,82.41,0.045,0.038,4.213,101110,Approach-close-lift
+9,S1,1,0,Open,GA,9,1,Success,85.3,0.847,0,0.47,8.956,209,79.24,0.037,0.01,4.27,001010,Approach-close-lift
+10,S1,1,0,Open,GA,10,1,Success,73.92,0.738,0,0.491,8.355,175,77.73,0.084,0.05,4.214,101101,Approach-close-lift
+11,S1,1,0,Open,GA,11,1,Success,71.0,0.771,0,0.456,7.925,133,81.51,0.0,0.0,4.326,001001,Approach-close-lift
+12,S1,1,0,Open,GA,12,0,Failed grasp,82.93,0.71,0,0.345,9.471,139,82.98,0.208,0.04,4.318,100100,Approach-close-lift
+13,S1,1,0,Open,GA,13,1,Success,87.24,0.702,0,0.575,9.511,164,78.3,0.052,0.051,4.294,000011,Approach-close-lift
+14,S1,1,0,Open,GA,14,1,Success,87.9,0.935,0,0.441,8.44,150,80.11,0.025,0.055,4.014,101010,Approach-close-lift
+15,S1,1,0,Open,GA,15,1,Success,90.39,0.804,0,0.425,8.321,116,80.54,0.0,0.016,4.233,110001,Approach-close-lift
+16,S1,1,0,Open,GA,16,1,Success,84.01,0.801,0,0.495,7.975,172,80.54,0.0,0.015,4.201,110011,Approach-close-lift
+17,S1,1,0,Open,GA,17,1,Success,90.38,0.989,0,0.515,8.313,193,81.05,0.062,0.034,3.98,010010,Approach-close-lift
+18,S1,1,0,Open,GA,18,1,Success,72.93,0.693,0,0.37,9.398,169,80.81,0.054,0.0,4.281,001100,Approach-close-lift
+19,S1,1,0,Open,GA,19,1,Success,83.94,0.824,0,0.412,7.832,153,79.88,0.0,0.013,4.119,011011,Approach-close-lift
+20,S1,1,0,Open,GA,20,1,Success,85.5,0.677,0,0.462,10.507,190,85.32,0.012,0.069,4.227,001010,Approach-close-lift
+21,S1,1,0,Open,GA,21,1,Collision,92.98,0.594,1,0.372,9.149,239,83.42,0.114,0.047,4.346,100010,Approach-close-lift
+22,S1,1,0,Open,GA,22,1,Success,77.88,1.076,0,0.425,9.468,203,82.27,0.054,0.0,3.829,001010,Approach-close-lift
+23,S1,1,0,Open,GA,23,1,Success,91.46,0.604,0,0.441,6.914,190,81.94,0.0,0.04,4.403,011000,Approach-close-lift
+24,S1,1,0,Open,GA,24,1,Success,86.27,0.884,0,0.58,8.78,224,85.47,0.133,0.016,4.097,111101,Approach-close-lift
+25,S1,1,0,Open,GA,25,1,Success,76.91,0.924,0,0.433,9.018,149,77.24,0.0,0.041,4.022,000111,Approach-close-lift
+26,S1,1,0,Open,GA,26,1,Success,74.21,0.734,0,0.325,9.521,201,85.23,0.054,0.044,4.252,110101,Approach-close-lift
+27,S1,1,0,Open,GA,27,1,Success,87.1,0.969,0,0.533,9.483,158,77.97,0.1,0.077,4.001,011110,Approach-close-lift
+28,S1,1,0,Open,GA,28,1,Success,94.02,0.58,0,0.536,8.343,165,89.07,0.031,0.109,4.477,011100,Approach-close-lift
+29,S1,1,0,Open,GA,29,1,Success,85.62,1.066,0,0.494,8.567,181,83.06,0.115,0.103,3.904,111010,Approach-close-lift
+30,S1,1,0,Open,GA,30,1,Success,75.72,0.703,0,0.482,9.54,183,79.71,0.093,0.052,4.32,001101,Approach-close-lift
+31,S1,1,0,Open,PSO,1,1,Success,48.25,0.666,0,0.479,7.114,145,78.52,0.222,0.098,4.198,000010,Approach-close-lift
+32,S1,1,0,Open,PSO,2,1,Success,66.33,0.737,0,0.383,6.906,171,78.7,0.0,0.035,4.239,000101,Approach-close-lift
+33,S1,1,0,Open,PSO,3,1,Success,80.61,0.829,0,0.462,8.378,172,86.5,0.023,0.073,4.299,100100,Approach-close-lift
+34,S1,1,0,Open,PSO,4,1,Success,61.14,0.863,0,0.454,8.67,206,80.32,0.234,0.0,4.201,101010,Approach-close-lift
+35,S1,1,0,Open,PSO,5,1,Success,76.5,0.642,0,0.376,7.301,156,83.45,0.0,0.033,4.329,111000,Approach-close-lift
+36,S1,1,0,Open,PSO,6,1,Success,81.89,0.728,0,0.462,8.086,135,84.48,0.117,0.002,4.248,011001,Approach-close-lift
+37,S1,1,0,Open,PSO,7,1,Success,62.9,0.771,0,0.419,6.732,155,84.81,0.085,0.0,4.337,010111,Approach-close-lift
+38,S1,1,0,Open,PSO,8,1,Success,83.02,0.638,0,0.437,9.752,182,81.34,0.0,0.032,4.289,111011,Approach-close-lift
+39,S1,1,0,Open,PSO,9,1,Success,82.47,0.696,0,0.385,8.655,167,81.14,0.157,0.001,4.26,010000,Approach-close-lift
+40,S1,1,0,Open,PSO,10,1,Success,68.64,0.459,0,0.392,8.111,231,85.08,0.0,0.045,4.516,011010,Approach-close-lift
+41,S1,1,0,Open,PSO,11,1,Success,66.55,0.771,0,0.405,9.207,169,76.92,0.055,0.012,4.3,111011,Approach-close-lift
+42,S1,1,0,Open,PSO,12,1,Success,81.33,0.652,0,0.349,8.152,153,79.29,0.017,0.027,4.315,000100,Approach-close-lift
+43,S1,1,0,Open,PSO,13,1,Success,64.55,0.676,0,0.351,8.575,204,79.27,0.019,0.014,4.351,001010,Approach-close-lift
+44,S1,1,0,Open,PSO,14,1,Success,51.76,0.631,0,0.382,7.567,181,82.11,0.042,0.034,4.349,000110,Approach-close-lift
+45,S1,1,0,Open,PSO,15,1,Success,69.46,0.787,0,0.431,7.684,138,80.88,0.0,0.062,4.198,000001,Approach-close-lift
+46,S1,1,0,Open,PSO,16,0,Failed grasp,77.21,0.699,0,0.391,7.953,137,80.85,0.03,0.088,4.275,111110,Approach-close-lift
+47,S1,1,0,Open,PSO,17,1,Success,65.26,0.727,0,0.525,7.805,121,81.34,0.084,0.026,4.278,001101,Approach-close-lift
+48,S1,1,0,Open,PSO,18,1,Success,62.52,0.573,0,0.479,8.295,161,83.05,0.04,0.064,4.571,011011,Approach-close-lift
+49,S1,1,0,Open,PSO,19,1,Success,64.37,0.537,0,0.423,7.594,153,80.49,0.0,0.01,4.499,000001,Approach-close-lift
+50,S1,1,0,Open,PSO,20,1,Success,65.82,0.66,0,0.473,8.132,160,77.17,0.134,0.058,4.366,001010,Approach-close-lift
+51,S1,1,0,Open,PSO,21,1,Success,64.56,0.608,0,0.383,9.091,123,83.8,0.0,0.084,4.462,110001,Approach-close-lift
+52,S1,1,0,Open,PSO,22,1,Success,82.49,0.638,0,0.5,8.662,166,79.45,0.162,0.0,4.362,100011,Approach-close-lift
+53,S1,1,0,Open,PSO,23,1,Success,73.86,0.854,0,0.422,8.657,152,82.5,0.013,0.041,4.165,010011,Approach-close-lift
+54,S1,1,0,Open,PSO,24,1,Success,71.8,0.707,0,0.365,7.324,181,83.21,0.139,0.032,4.351,001101,Approach-close-lift
+55,S1,1,0,Open,PSO,25,1,Success,71.29,0.698,0,0.406,7.588,178,83.02,0.117,0.049,4.328,000111,Approach-close-lift
+56,S1,1,0,Open,PSO,26,1,Success,73.73,0.812,0,0.379,8.739,198,81.04,0.04,0.022,4.251,101100,Approach-close-lift
+57,S1,1,0,Open,PSO,27,1,Success,72.63,0.773,0,0.422,8.538,194,81.13,0.099,0.07,4.199,111010,Approach-close-lift
+58,S1,1,0,Open,PSO,28,1,Success,51.35,0.591,0,0.324,9.243,162,87.3,0.082,0.062,4.281,111000,Approach-close-lift
+59,S1,1,0,Open,PSO,29,1,Success,69.31,0.629,0,0.464,8.682,136,82.06,0.0,0.047,4.294,100011,Approach-close-lift
+60,S1,1,0,Open,PSO,30,1,Success,73.22,0.637,0,0.413,8.178,179,84.1,0.0,0.03,4.389,110011,Approach-close-lift
+61,S1,1,0,Open,QIO-Rust,1,1,Success,56.21,0.476,0,0.306,9.059,115,83.67,0.035,0.039,4.551,011101,Approach-close-lift
+62,S1,1,0,Open,QIO-Rust,2,1,Success,47.99,0.511,0,0.469,8.151,160,83.38,0.023,0.033,4.488,101101,Approach-close-lift
+63,S1,1,0,Open,QIO-Rust,3,1,Success,59.37,0.439,0,0.322,7.574,183,81.32,0.111,0.029,4.379,010110,Approach-close-lift
+64,S1,1,0,Open,QIO-Rust,4,1,Success,57.42,0.494,0,0.36,6.069,179,82.69,0.166,0.044,4.489,010011,Approach-close-lift
+65,S1,1,0,Open,QIO-Rust,5,1,Success,59.17,0.396,0,0.26,7.694,99,84.67,0.126,0.035,4.687,001010,Approach-close-lift
+66,S1,1,0,Open,QIO-Rust,6,1,Success,60.16,0.43,0,0.361,6.902,118,82.29,0.143,0.029,4.669,011101,Approach-close-lift
+67,S1,1,0,Open,QIO-Rust,7,1,Success,54.83,0.381,0,0.29,8.272,172,83.48,0.098,0.058,4.666,110011,Approach-close-lift
+68,S1,1,0,Open,QIO-Rust,8,1,Success,46.08,0.388,0,0.368,8.072,116,83.82,0.0,0.015,4.677,010111,Approach-close-lift
+69,S1,1,0,Open,QIO-Rust,9,1,Success,40.59,0.63,0,0.333,6.915,87,84.39,0.068,0.04,4.445,100001,Approach-close-lift
+70,S1,1,0,Open,QIO-Rust,10,1,Success,52.25,0.528,0,0.435,8.02,160,77.99,0.117,0.018,4.54,101110,Approach-close-lift
+71,S1,1,0,Open,QIO-Rust,11,1,Success,58.37,0.389,0,0.412,8.242,131,81.02,0.0,0.0,4.661,011101,Approach-close-lift
+72,S1,1,0,Open,QIO-Rust,12,1,Success,51.74,0.512,0,0.339,7.632,165,77.75,0.016,0.049,4.384,011101,Approach-close-lift
+73,S1,1,0,Open,QIO-Rust,13,1,Success,55.06,0.395,0,0.463,7.267,158,80.59,0.04,0.051,4.442,101100,Approach-close-lift
+74,S1,1,0,Open,QIO-Rust,14,1,Success,46.79,0.398,0,0.317,9.13,150,84.34,0.299,0.016,4.494,000001,Approach-close-lift
+75,S1,1,0,Open,QIO-Rust,15,1,Success,52.71,0.469,0,0.419,8.813,104,85.48,0.028,0.0,4.609,101000,Approach-close-lift
+76,S1,1,0,Open,QIO-Rust,16,1,Success,51.66,0.59,0,0.426,8.512,115,82.52,0.14,0.058,4.415,010100,Approach-close-lift
+77,S1,1,0,Open,QIO-Rust,17,1,Success,44.32,0.595,0,0.491,7.579,102,84.22,0.09,0.065,4.51,010001,Approach-close-lift
+78,S1,1,0,Open,QIO-Rust,18,1,Success,47.64,0.443,0,0.269,8.401,108,84.83,0.081,0.0,4.501,001001,Approach-close-lift
+79,S1,1,0,Open,QIO-Rust,19,1,Success,58.06,0.327,0,0.51,7.548,147,82.85,0.048,0.053,4.735,101110,Approach-close-lift
+80,S1,1,0,Open,QIO-Rust,20,1,Success,49.02,0.414,0,0.36,7.476,103,81.33,0.061,0.022,4.433,111111,Approach-close-lift
+81,S1,1,0,Open,QIO-Rust,21,1,Success,46.87,0.569,0,0.219,9.15,130,79.5,0.081,0.055,4.382,110111,Approach-close-lift
+82,S1,1,0,Open,QIO-Rust,22,1,Success,50.04,0.447,0,0.352,7.973,151,80.64,0.072,0.06,4.493,010110,Approach-close-lift
+83,S1,1,0,Open,QIO-Rust,23,1,Success,51.6,0.455,0,0.371,8.401,174,83.02,0.081,0.054,4.61,100110,Approach-close-lift
+84,S1,1,0,Open,QIO-Rust,24,1,Success,53.22,0.579,0,0.452,8.482,134,82.07,0.166,0.083,4.468,001100,Approach-close-lift
+85,S1,1,0,Open,QIO-Rust,25,1,Success,50.46,0.499,0,0.421,8.205,102,82.42,0.098,0.009,4.521,001010,Approach-close-lift
+86,S1,1,0,Open,QIO-Rust,26,1,Success,48.75,0.549,0,0.471,7.249,93,80.69,0.136,0.083,4.523,001111,Approach-close-lift
+87,S1,1,0,Open,QIO-Rust,27,1,Success,45.86,0.388,0,0.345,8.147,114,80.99,0.28,0.048,4.575,011011,Approach-close-lift
+88,S1,1,0,Open,QIO-Rust,28,1,Success,50.79,0.503,0,0.432,7.901,160,77.51,0.0,0.051,4.508,000011,Approach-close-lift
+89,S1,1,0,Open,QIO-Rust,29,1,Success,48.96,0.462,0,0.393,6.384,184,83.46,0.0,0.052,4.562,010001,Approach-close-lift
+90,S1,1,0,Open,QIO-Rust,30,1,Success,50.95,0.5,0,0.402,7.709,166,82.88,0.069,0.069,4.394,000000,Approach-close-lift
+91,S2,1,2,Low,GA,1,1,Success,97.52,0.993,0,0.565,9.686,208,33.64,0.557,0.072,3.908,110011,Reposition-close-lift
+92,S2,1,2,Low,GA,2,0,Failed grasp,90.01,1.208,0,0.508,10.289,164,36.46,0.423,0.086,3.8,001011,Reposition-close-lift
+93,S2,1,2,Low,GA,3,1,Success,87.58,0.756,0,0.523,9.412,270,39.09,0.472,0.082,4.235,111110,Reposition-close-lift
+94,S2,1,2,Low,GA,4,1,Success,102.16,1.003,0,0.476,9.284,200,36.55,0.557,0.06,4.022,001111,Reposition-close-lift
+95,S2,1,2,Low,GA,5,1,Success,109.84,1.0,0,0.59,10.116,201,38.04,0.478,0.119,4.107,011101,Reposition-close-lift
+96,S2,1,2,Low,GA,6,0,Failed grasp,114.05,0.762,0,0.46,8.753,191,34.75,0.373,0.026,4.338,001010,Reposition-close-lift
+97,S2,1,2,Low,GA,7,1,Success,93.8,1.032,0,0.507,10.159,224,37.7,0.534,0.107,4.075,100000,Reposition-close-lift
+98,S2,1,2,Low,GA,8,1,Success,83.94,1.061,0,0.547,8.375,164,32.58,0.542,0.094,3.978,000010,Reposition-close-lift
+99,S2,1,2,Low,GA,9,1,Collision,76.37,0.961,1,0.485,9.499,192,34.69,0.429,0.116,4.136,101010,Reposition-close-lift
+100,S2,1,2,Low,GA,10,1,Success,97.86,0.891,0,0.592,8.928,193,35.18,0.49,0.074,4.03,101100,Reposition-close-lift
+101,S2,1,2,Low,GA,11,1,Success,75.54,0.762,0,0.481,9.704,195,35.1,0.564,0.148,4.221,111111,Reposition-close-lift
+102,S2,1,2,Low,GA,12,1,Success,101.23,0.761,0,0.568,9.885,195,36.75,0.545,0.089,4.096,101010,Reposition-close-lift
+103,S2,1,2,Low,GA,13,1,Success,93.0,0.759,0,0.535,9.657,217,34.4,0.506,0.062,4.219,110011,Reposition-close-lift
+104,S2,1,2,Low,GA,14,1,Success,109.8,1.31,0,0.509,8.391,205,32.5,0.494,0.071,3.674,111010,Reposition-close-lift
+105,S2,1,2,Low,GA,15,1,Success,98.84,0.907,0,0.595,9.02,186,36.99,0.484,0.09,4.049,100100,Reposition-close-lift
+106,S2,1,2,Low,GA,16,1,Success,112.18,1.125,0,0.453,9.492,212,33.83,0.419,0.076,3.84,001100,Reposition-close-lift
+107,S2,1,2,Low,GA,17,1,Success,97.41,1.021,0,0.509,10.216,209,34.49,0.472,0.091,4.04,100111,Reposition-close-lift
+108,S2,1,2,Low,GA,18,1,Success,101.25,0.781,0,0.492,8.067,225,32.67,0.509,0.084,4.222,001100,Reposition-close-lift
+109,S2,1,2,Low,GA,19,1,Success,92.18,0.789,0,0.502,8.373,217,33.32,0.32,0.069,4.168,011100,Reposition-close-lift
+110,S2,1,2,Low,GA,20,1,Success,83.9,0.931,0,0.5,9.298,250,32.03,0.347,0.076,4.03,011010,Reposition-close-lift
+111,S2,1,2,Low,GA,21,1,Success,96.62,0.888,0,0.553,9.452,246,35.59,0.405,0.104,4.098,011100,Reposition-close-lift
+112,S2,1,2,Low,GA,22,1,Success,91.4,0.824,0,0.601,9.11,235,36.83,0.399,0.075,4.276,001101,Reposition-close-lift
+113,S2,1,2,Low,GA,23,1,Success,81.08,0.829,0,0.52,10.575,220,35.54,0.388,0.054,4.163,100101,Reposition-close-lift
+114,S2,1,2,Low,GA,24,1,Success,101.1,0.767,0,0.522,8.585,204,37.63,0.415,0.091,4.255,000001,Reposition-close-lift
+115,S2,1,2,Low,GA,25,1,Success,103.1,0.722,0,0.466,10.84,196,36.5,0.541,0.069,4.113,000000,Reposition-close-lift
+116,S2,1,2,Low,GA,26,1,Success,96.74,0.971,0,0.552,9.465,206,32.6,0.627,0.073,3.975,010010,Reposition-close-lift
+117,S2,1,2,Low,GA,27,1,Success,100.6,0.668,0,0.644,9.428,216,32.49,0.504,0.134,4.269,001110,Reposition-close-lift
+118,S2,1,2,Low,GA,28,0,Failed grasp,99.94,0.992,0,0.469,9.406,206,33.54,0.51,0.053,4.008,101011,Reposition-close-lift
+119,S2,1,2,Low,GA,29,1,Collision,121.41,0.727,1,0.593,8.785,214,38.3,0.413,0.109,4.208,000001,Reposition-close-lift
+120,S2,1,2,Low,GA,30,1,Success,88.13,0.792,0,0.544,10.411,238,36.05,0.569,0.087,4.186,110111,Reposition-close-lift
+121,S2,1,2,Low,PSO,1,1,Success,89.09,0.865,0,0.457,9.526,166,34.15,0.496,0.071,4.108,111111,Reposition-close-lift
+122,S2,1,2,Low,PSO,2,0,Failed grasp,89.57,0.788,0,0.499,9.273,189,41.53,0.458,0.074,4.134,000001,Reposition-close-lift
+123,S2,1,2,Low,PSO,3,1,Success,60.48,0.691,0,0.411,8.377,167,34.71,0.41,0.056,4.18,111011,Reposition-close-lift
+124,S2,1,2,Low,PSO,4,1,Success,80.33,0.968,0,0.564,8.382,210,40.55,0.394,0.066,4.157,111011,Reposition-close-lift
+125,S2,1,2,Low,PSO,5,1,Success,87.61,0.753,0,0.45,10.38,186,31.5,0.373,0.085,4.225,101111,Reposition-close-lift
+126,S2,1,2,Low,PSO,6,1,Success,89.36,0.793,0,0.415,8.741,186,35.79,0.506,0.066,4.137,101110,Reposition-close-lift
+127,S2,1,2,Low,PSO,7,1,Success,82.43,0.615,0,0.518,8.967,177,34.41,0.343,0.065,4.407,010010,Reposition-close-lift
+128,S2,1,2,Low,PSO,8,1,Success,87.89,0.746,0,0.46,9.177,195,36.03,0.389,0.027,4.268,111111,Reposition-close-lift
+129,S2,1,2,Low,PSO,9,1,Success,81.2,0.779,0,0.538,8.569,188,33.18,0.466,0.108,4.393,101111,Reposition-close-lift
+130,S2,1,2,Low,PSO,10,1,Success,64.25,0.595,0,0.505,10.454,206,37.52,0.429,0.11,4.408,011100,Reposition-close-lift
+131,S2,1,2,Low,PSO,11,1,Success,72.9,0.711,0,0.628,9.039,168,34.79,0.458,0.053,4.307,110011,Reposition-close-lift
+132,S2,1,2,Low,PSO,12,1,Success,80.33,0.757,0,0.459,9.924,193,35.37,0.51,0.073,4.111,100001,Reposition-close-lift
+133,S2,1,2,Low,PSO,13,1,Success,65.93,0.742,0,0.527,10.031,170,27.86,0.467,0.073,4.269,011101,Reposition-close-lift
+134,S2,1,2,Low,PSO,14,1,Success,63.69,0.901,0,0.501,9.639,184,35.91,0.351,0.075,4.085,111000,Reposition-close-lift
+135,S2,1,2,Low,PSO,15,1,Success,70.91,0.911,0,0.492,9.364,201,35.76,0.497,0.048,4.058,101011,Reposition-close-lift
+136,S2,1,2,Low,PSO,16,1,Success,91.48,0.701,0,0.551,9.92,186,34.11,0.552,0.087,4.138,110000,Reposition-close-lift
+137,S2,1,2,Low,PSO,17,1,Success,82.74,0.743,0,0.566,9.356,202,34.45,0.518,0.061,4.259,010101,Reposition-close-lift
+138,S2,1,2,Low,PSO,18,1,Collision,81.48,0.716,1,0.49,8.399,213,34.35,0.39,0.085,4.32,000111,Reposition-close-lift
+139,S2,1,2,Low,PSO,19,1,Success,80.3,0.852,0,0.448,9.457,202,32.49,0.569,0.06,4.211,110010,Reposition-close-lift
+140,S2,1,2,Low,PSO,20,1,Success,95.47,0.792,0,0.436,10.678,227,32.09,0.303,0.092,4.268,001100,Reposition-close-lift
+141,S2,1,2,Low,PSO,21,1,Success,85.74,0.748,0,0.463,8.539,191,34.11,0.455,0.068,4.253,000100,Reposition-close-lift
+142,S2,1,2,Low,PSO,22,0,Failed grasp,75.44,0.886,0,0.487,9.428,171,34.76,0.349,0.084,4.067,000000,Reposition-close-lift
+143,S2,1,2,Low,PSO,23,1,Success,79.39,0.734,0,0.417,8.2,213,33.43,0.657,0.096,4.121,011000,Reposition-close-lift
+144,S2,1,2,Low,PSO,24,1,Success,74.73,0.684,0,0.439,7.823,172,36.0,0.43,0.018,4.392,010000,Reposition-close-lift
+145,S2,1,2,Low,PSO,25,1,Success,92.35,0.811,0,0.483,8.879,185,31.36,0.583,0.076,4.211,101000,Reposition-close-lift
+146,S2,1,2,Low,PSO,26,1,Success,84.69,0.714,0,0.489,6.696,204,34.85,0.482,0.126,4.317,001100,Reposition-close-lift
+147,S2,1,2,Low,PSO,27,1,Success,84.66,0.705,0,0.458,8.909,194,30.68,0.487,0.068,4.14,011100,Reposition-close-lift
+148,S2,1,2,Low,PSO,28,1,Collision,84.79,0.641,1,0.389,8.546,206,38.1,0.409,0.077,4.209,000010,Reposition-close-lift
+149,S2,1,2,Low,PSO,29,1,Success,76.11,0.614,0,0.395,8.186,179,38.6,0.633,0.046,4.385,000101,Reposition-close-lift
+150,S2,1,2,Low,PSO,30,1,Success,72.53,0.632,0,0.501,8.33,170,38.3,0.355,0.128,4.505,100011,Reposition-close-lift
+151,S2,1,2,Low,QIO-Rust,1,1,Success,56.12,0.557,0,0.451,8.772,209,33.27,0.537,0.091,4.408,101111,Reposition-close-lift
+152,S2,1,2,Low,QIO-Rust,2,1,Success,64.39,0.563,0,0.411,9.591,226,35.56,0.496,0.077,4.361,110100,Reposition-close-lift
+153,S2,1,2,Low,QIO-Rust,3,1,Collision,63.65,0.468,1,0.6,7.723,217,35.94,0.42,0.082,4.609,110110,Reposition-close-lift
+154,S2,1,2,Low,QIO-Rust,4,1,Success,64.78,0.508,0,0.502,9.08,190,36.0,0.413,0.078,4.44,111101,Reposition-close-lift
+155,S2,1,2,Low,QIO-Rust,5,1,Collision,75.84,0.482,1,0.47,8.008,153,33.29,0.35,0.072,4.505,011100,Reposition-close-lift
+156,S2,1,2,Low,QIO-Rust,6,1,Success,61.55,0.566,0,0.37,7.53,153,37.02,0.462,0.09,4.356,100010,Reposition-close-lift
+157,S2,1,2,Low,QIO-Rust,7,1,Success,60.06,0.589,0,0.471,8.896,190,32.89,0.411,0.044,4.505,001011,Reposition-close-lift
+158,S2,1,2,Low,QIO-Rust,8,1,Success,62.25,0.507,0,0.34,8.264,185,36.41,0.423,0.098,4.467,011010,Reposition-close-lift
+159,S2,1,2,Low,QIO-Rust,9,1,Success,64.31,0.521,0,0.452,9.591,184,37.25,0.528,0.051,4.669,011101,Reposition-close-lift
+160,S2,1,2,Low,QIO-Rust,10,1,Collision,73.16,0.453,1,0.551,8.234,115,38.58,0.483,0.094,4.491,111101,Reposition-close-lift
+161,S2,1,2,Low,QIO-Rust,11,1,Success,64.88,0.62,0,0.412,7.664,177,34.13,0.39,0.099,4.36,010111,Reposition-close-lift
+162,S2,1,2,Low,QIO-Rust,12,1,Success,54.38,0.586,0,0.569,9.848,153,36.71,0.578,0.089,4.358,101110,Reposition-close-lift
+163,S2,1,2,Low,QIO-Rust,13,1,Success,49.18,0.673,0,0.513,8.099,139,38.12,0.465,0.092,4.297,101001,Reposition-close-lift
+164,S2,1,2,Low,QIO-Rust,14,0,Failed grasp,72.94,0.645,0,0.478,8.498,135,34.28,0.594,0.074,4.266,010110,Reposition-close-lift
+165,S2,1,2,Low,QIO-Rust,15,0,Failed grasp,60.73,0.63,0,0.494,8.391,151,35.64,0.542,0.068,4.323,011100,Reposition-close-lift
+166,S2,1,2,Low,QIO-Rust,16,1,Success,52.41,0.454,0,0.489,8.036,177,31.77,0.323,0.026,4.523,100101,Reposition-close-lift
+167,S2,1,2,Low,QIO-Rust,17,1,Success,62.19,0.518,0,0.497,7.17,148,36.77,0.512,0.077,4.355,001001,Reposition-close-lift
+168,S2,1,2,Low,QIO-Rust,18,1,Success,58.81,0.587,0,0.489,9.116,127,34.27,0.475,0.061,4.495,000111,Reposition-close-lift
+169,S2,1,2,Low,QIO-Rust,19,1,Success,47.61,0.628,0,0.445,8.211,183,35.9,0.395,0.069,4.363,011111,Reposition-close-lift
+170,S2,1,2,Low,QIO-Rust,20,1,Success,56.12,0.475,0,0.562,8.025,176,37.98,0.489,0.101,4.408,010001,Reposition-close-lift
+171,S2,1,2,Low,QIO-Rust,21,0,Failed grasp,53.51,0.538,0,0.482,9.123,147,35.34,0.459,0.138,4.418,101000,Reposition-close-lift
+172,S2,1,2,Low,QIO-Rust,22,0,Failed grasp,57.42,0.413,0,0.427,8.7,190,34.83,0.439,0.081,4.587,110011,Reposition-close-lift
+173,S2,1,2,Low,QIO-Rust,23,1,Success,57.17,0.47,0,0.41,8.874,185,30.75,0.543,0.067,4.58,011101,Reposition-close-lift
+174,S2,1,2,Low,QIO-Rust,24,1,Success,62.34,0.595,0,0.428,9.297,203,30.75,0.482,0.078,4.333,011111,Reposition-close-lift
+175,S2,1,2,Low,QIO-Rust,25,1,Success,60.44,0.722,0,0.512,8.438,146,35.88,0.442,0.064,4.265,011001,Reposition-close-lift
+176,S2,1,2,Low,QIO-Rust,26,1,Success,53.29,0.662,0,0.418,7.872,149,35.4,0.535,0.073,4.352,111101,Reposition-close-lift
+177,S2,1,2,Low,QIO-Rust,27,1,Success,51.25,0.464,0,0.439,8.522,175,35.57,0.47,0.091,4.512,000110,Reposition-close-lift
+178,S2,1,2,Low,QIO-Rust,28,1,Success,60.51,0.463,0,0.494,8.568,174,36.77,0.374,0.066,4.316,010101,Reposition-close-lift
+179,S2,1,2,Low,QIO-Rust,29,1,Success,63.27,0.48,0,0.45,8.176,197,35.01,0.482,0.085,4.537,101101,Reposition-close-lift
+180,S2,1,2,Low,QIO-Rust,30,1,Success,52.34,0.534,0,0.548,8.561,198,38.84,0.518,0.067,4.446,010000,Reposition-close-lift
+181,S3,3,4,Medium,GA,1,0,Failed grasp,104.12,0.935,0,0.65,11.974,297,17.82,0.551,0.141,4.21,010111,Replan-approach-close
+182,S3,3,4,Medium,GA,2,0,Failed grasp,114.88,1.343,0,0.655,11.178,326,14.19,0.595,0.161,3.567,111111,Replan-approach-close
+183,S3,3,4,Medium,GA,3,1,Success,116.43,0.919,0,0.669,12.538,272,18.46,0.616,0.162,4.051,010101,Replan-approach-close
+184,S3,3,4,Medium,GA,4,1,Success,131.6,0.924,0,0.702,13.067,297,19.01,0.545,0.137,3.96,010111,Replan-approach-close
+185,S3,3,4,Medium,GA,5,1,Success,112.27,1.125,0,0.516,11.031,276,18.44,0.575,0.163,3.863,110000,Replan-approach-close
+186,S3,3,4,Medium,GA,6,0,Failed grasp,114.23,0.799,0,0.648,11.761,315,16.24,0.661,0.106,4.21,111100,Replan-approach-close
+187,S3,3,4,Medium,GA,7,1,Success,123.9,1.072,0,0.579,12.077,246,17.79,0.603,0.145,3.882,001100,Replan-approach-close
+188,S3,3,4,Medium,GA,8,0,Failed grasp,112.46,1.126,0,0.698,11.875,292,18.05,0.639,0.199,3.92,011000,Replan-approach-close
+189,S3,3,4,Medium,GA,9,1,Success,108.52,1.222,0,0.547,11.157,270,19.95,0.351,0.162,3.685,101010,Replan-approach-close
+190,S3,3,4,Medium,GA,10,1,Success,136.5,0.738,0,0.651,10.642,295,19.55,0.586,0.148,4.442,111110,Replan-approach-close
+191,S3,3,4,Medium,GA,11,1,Success,130.4,0.918,0,0.552,10.384,291,20.85,0.554,0.193,3.885,101000,Replan-approach-close
+192,S3,3,4,Medium,GA,12,1,Success,149.54,0.902,0,0.607,10.935,300,20.13,0.618,0.147,4.026,001100,Replan-approach-close
+193,S3,3,4,Medium,GA,13,1,Success,119.01,0.944,0,0.666,10.904,324,18.39,0.704,0.152,4.152,111001,Replan-approach-close
+194,S3,3,4,Medium,GA,14,1,Success,117.41,1.137,0,0.701,11.654,267,14.73,0.487,0.16,3.78,001101,Replan-approach-close
+195,S3,3,4,Medium,GA,15,1,Success,127.62,0.817,0,0.535,11.399,279,19.72,0.568,0.164,4.042,001001,Replan-approach-close
+196,S3,3,4,Medium,GA,16,1,Success,111.12,0.968,0,0.65,9.853,279,19.28,0.606,0.102,4.088,110000,Replan-approach-close
+197,S3,3,4,Medium,GA,17,1,Success,115.68,1.143,0,0.574,11.387,258,20.02,0.663,0.194,3.908,111001,Replan-approach-close
+198,S3,3,4,Medium,GA,18,1,Success,124.5,0.975,0,0.72,11.332,262,19.93,0.691,0.15,3.996,010010,Replan-approach-close
+199,S3,3,4,Medium,GA,19,1,Success,100.48,1.34,0,0.593,11.954,285,16.57,0.525,0.114,3.871,101101,Replan-approach-close
+200,S3,3,4,Medium,GA,20,1,Success,128.18,1.117,0,0.641,11.941,250,16.72,0.649,0.149,3.884,110000,Replan-approach-close
+201,S3,3,4,Medium,GA,21,0,Failed grasp,100.49,0.706,0,0.634,11.983,283,22.2,0.664,0.125,4.396,001111,Replan-approach-close
+202,S3,3,4,Medium,GA,22,1,Success,109.42,1.002,0,0.748,13.202,275,18.38,0.67,0.173,3.963,101101,Replan-approach-close
+203,S3,3,4,Medium,GA,23,0,Failed grasp,140.94,1.093,0,0.728,12.85,303,19.84,0.731,0.132,3.941,010011,Replan-approach-close
+204,S3,3,4,Medium,GA,24,1,Success,113.24,1.042,0,0.636,10.863,308,17.23,0.671,0.141,4.003,001101,Replan-approach-close
+205,S3,3,4,Medium,GA,25,1,Success,123.27,1.173,0,0.604,11.795,271,17.14,0.571,0.15,3.912,001111,Replan-approach-close
+206,S3,3,4,Medium,GA,26,1,Success,102.75,1.146,0,0.652,11.961,316,16.38,0.759,0.128,3.839,101110,Replan-approach-close
+207,S3,3,4,Medium,GA,27,1,Success,129.84,1.015,0,0.698,9.728,238,19.67,0.592,0.148,4.06,111110,Replan-approach-close
+208,S3,3,4,Medium,GA,28,1,Success,135.58,1.161,0,0.708,11.382,257,16.79,0.604,0.137,3.857,011010,Replan-approach-close
+209,S3,3,4,Medium,GA,29,0,Failed grasp,125.65,1.017,0,0.576,10.987,319,18.03,0.648,0.2,4.044,001100,Replan-approach-close
+210,S3,3,4,Medium,GA,30,1,Success,101.03,0.94,0,0.484,11.915,297,18.1,0.504,0.134,4.143,111101,Replan-approach-close
+211,S3,3,4,Medium,PSO,1,1,Success,111.44,0.8,0,0.668,10.999,250,16.8,0.648,0.13,4.245,011000,Replan-approach-close
+212,S3,3,4,Medium,PSO,2,1,Success,91.97,0.743,0,0.623,9.575,252,19.56,0.675,0.104,4.243,000101,Replan-approach-close
+213,S3,3,4,Medium,PSO,3,1,Success,98.78,0.815,0,0.605,11.452,287,16.67,0.652,0.159,4.239,010101,Replan-approach-close
+214,S3,3,4,Medium,PSO,4,1,Success,103.64,0.872,0,0.475,11.29,262,21.09,0.773,0.131,4.234,111010,Replan-approach-close
+215,S3,3,4,Medium,PSO,5,1,Success,88.2,0.742,0,0.558,10.933,288,15.92,0.677,0.155,4.232,110100,Replan-approach-close
+216,S3,3,4,Medium,PSO,6,1,Success,104.38,0.732,0,0.711,10.341,273,16.74,0.658,0.133,4.291,001000,Replan-approach-close
+217,S3,3,4,Medium,PSO,7,1,Success,104.6,0.914,0,0.596,10.344,290,21.13,0.557,0.139,4.156,001100,Replan-approach-close
+218,S3,3,4,Medium,PSO,8,1,Collision,117.26,0.578,1,0.63,11.268,209,17.61,0.474,0.139,4.48,000100,Replan-approach-close
+219,S3,3,4,Medium,PSO,9,1,Success,103.07,0.817,0,0.657,10.761,251,17.52,0.515,0.126,4.18,110000,Replan-approach-close
+220,S3,3,4,Medium,PSO,10,1,Success,102.46,0.89,0,0.429,10.561,246,16.64,0.752,0.189,3.99,111011,Replan-approach-close
+221,S3,3,4,Medium,PSO,11,1,Success,101.05,0.971,0,0.539,11.164,251,19.84,0.582,0.162,4.065,101000,Replan-approach-close
+222,S3,3,4,Medium,PSO,12,0,Failed grasp,107.79,0.801,0,0.691,10.51,284,20.35,0.667,0.129,4.211,001011,Replan-approach-close
+223,S3,3,4,Medium,PSO,13,1,Success,90.76,0.778,0,0.591,11.677,263,21.01,0.546,0.181,4.168,010001,Replan-approach-close
+224,S3,3,4,Medium,PSO,14,1,Success,103.11,0.939,0,0.602,11.28,303,15.23,0.586,0.134,3.962,011011,Replan-approach-close
+225,S3,3,4,Medium,PSO,15,1,Success,97.94,1.009,0,0.618,10.274,251,18.2,0.601,0.102,3.921,110000,Replan-approach-close
+226,S3,3,4,Medium,PSO,16,1,Success,84.63,1.046,0,0.579,11.822,225,23.31,0.652,0.136,3.849,011011,Replan-approach-close
+227,S3,3,4,Medium,PSO,17,1,Success,101.11,1.071,0,0.422,10.251,255,19.91,0.765,0.169,3.951,110110,Replan-approach-close
+228,S3,3,4,Medium,PSO,18,1,Success,100.39,0.738,0,0.676,10.272,251,19.4,0.681,0.107,4.22,100000,Replan-approach-close
+229,S3,3,4,Medium,PSO,19,0,Collision,107.15,0.752,1,0.588,9.861,220,24.4,0.579,0.166,4.245,111101,Replan-approach-close
+230,S3,3,4,Medium,PSO,20,1,Success,110.56,0.847,0,0.558,10.096,239,17.48,0.574,0.143,4.195,101101,Replan-approach-close
+231,S3,3,4,Medium,PSO,21,0,Failed grasp,93.18,0.888,0,0.598,11.318,271,19.88,0.497,0.102,4.179,101111,Replan-approach-close
+232,S3,3,4,Medium,PSO,22,1,Success,104.02,0.972,0,0.652,11.634,191,16.74,0.585,0.159,4.011,101000,Replan-approach-close
+233,S3,3,4,Medium,PSO,23,1,Success,96.6,0.923,0,0.532,9.72,301,16.9,0.668,0.159,4.012,110000,Replan-approach-close
+234,S3,3,4,Medium,PSO,24,1,Success,108.13,0.925,0,0.604,9.969,243,18.5,0.704,0.144,4.041,011001,Replan-approach-close
+235,S3,3,4,Medium,PSO,25,0,Failed grasp,108.55,1.002,0,0.703,11.337,271,21.08,0.639,0.199,3.953,010011,Replan-approach-close
+236,S3,3,4,Medium,PSO,26,1,Success,96.96,0.98,0,0.576,11.408,280,18.29,0.489,0.157,4.019,010000,Replan-approach-close
+237,S3,3,4,Medium,PSO,27,1,Collision,114.83,0.894,1,0.516,10.563,259,16.09,0.598,0.176,4.135,101000,Replan-approach-close
+238,S3,3,4,Medium,PSO,28,1,Collision,100.96,0.689,1,0.682,9.825,266,19.5,0.58,0.185,4.362,011001,Replan-approach-close
+239,S3,3,4,Medium,PSO,29,1,Success,118.35,1.041,0,0.642,11.052,224,19.93,0.594,0.224,4.106,001000,Replan-approach-close
+240,S3,3,4,Medium,PSO,30,1,Success,98.09,0.851,0,0.554,10.365,278,17.94,0.583,0.133,4.182,111000,Replan-approach-close
+241,S3,3,4,Medium,QIO-Rust,1,1,Success,71.02,0.571,0,0.555,10.344,232,17.91,0.623,0.13,4.323,000000,Replan-approach-close
+242,S3,3,4,Medium,QIO-Rust,2,1,Success,74.67,0.593,0,0.599,10.782,176,19.54,0.588,0.122,4.304,100100,Replan-approach-close
+243,S3,3,4,Medium,QIO-Rust,3,1,Success,76.49,0.621,0,0.524,9.601,254,15.23,0.6,0.131,4.388,101000,Replan-approach-close
+244,S3,3,4,Medium,QIO-Rust,4,1,Success,72.4,0.535,0,0.626,10.132,209,14.87,0.655,0.156,4.322,101111,Replan-approach-close
+245,S3,3,4,Medium,QIO-Rust,5,1,Success,75.53,0.617,0,0.584,9.6,266,18.66,0.814,0.144,4.286,011001,Replan-approach-close
+246,S3,3,4,Medium,QIO-Rust,6,1,Success,75.02,0.653,0,0.676,9.519,217,17.43,0.45,0.161,4.231,000001,Replan-approach-close
+247,S3,3,4,Medium,QIO-Rust,7,1,Success,67.58,0.578,0,0.615,10.583,232,17.4,0.534,0.179,4.392,101100,Replan-approach-close
+248,S3,3,4,Medium,QIO-Rust,8,1,Success,74.58,0.63,0,0.457,9.802,240,16.53,0.533,0.141,4.516,111101,Replan-approach-close
+249,S3,3,4,Medium,QIO-Rust,9,1,Success,75.61,0.573,0,0.594,10.962,212,18.53,0.584,0.13,4.439,100011,Replan-approach-close
+250,S3,3,4,Medium,QIO-Rust,10,1,Success,88.01,0.551,0,0.584,10.848,246,15.79,0.564,0.177,4.297,110000,Replan-approach-close
+251,S3,3,4,Medium,QIO-Rust,11,1,Success,69.45,0.711,0,0.581,10.158,207,13.51,0.561,0.189,4.181,010100,Replan-approach-close
+252,S3,3,4,Medium,QIO-Rust,12,1,Success,70.61,0.555,0,0.555,10.785,244,17.9,0.651,0.12,4.459,101000,Replan-approach-close
+253,S3,3,4,Medium,QIO-Rust,13,1,Success,81.17,0.581,0,0.532,10.933,195,21.66,0.622,0.153,4.536,011010,Replan-approach-close
+254,S3,3,4,Medium,QIO-Rust,14,1,Success,71.84,0.595,0,0.556,9.489,218,19.81,0.691,0.148,4.484,100110,Replan-approach-close
+255,S3,3,4,Medium,QIO-Rust,15,1,Success,68.14,0.465,0,0.539,10.229,251,18.49,0.715,0.171,4.546,100110,Replan-approach-close
+256,S3,3,4,Medium,QIO-Rust,16,0,Failed grasp,76.53,0.561,0,0.647,9.528,238,14.23,0.65,0.138,4.369,101110,Replan-approach-close
+257,S3,3,4,Medium,QIO-Rust,17,1,Success,72.31,0.567,0,0.619,10.1,238,17.76,0.606,0.119,4.46,100011,Replan-approach-close
+258,S3,3,4,Medium,QIO-Rust,18,1,Success,66.99,0.534,0,0.517,10.343,227,17.4,0.469,0.212,4.551,000111,Replan-approach-close
+259,S3,3,4,Medium,QIO-Rust,19,1,Success,63.9,0.653,0,0.645,10.18,212,20.56,0.62,0.173,4.491,011111,Replan-approach-close
+260,S3,3,4,Medium,QIO-Rust,20,1,Success,69.72,0.697,0,0.546,10.894,305,17.53,0.575,0.151,4.354,011101,Replan-approach-close
+261,S3,3,4,Medium,QIO-Rust,21,1,Success,80.92,0.594,0,0.57,9.707,218,16.71,0.642,0.158,4.322,101110,Replan-approach-close
+262,S3,3,4,Medium,QIO-Rust,22,1,Success,62.53,0.609,0,0.585,10.713,259,20.54,0.636,0.107,4.237,011001,Replan-approach-close
+263,S3,3,4,Medium,QIO-Rust,23,1,Success,83.29,0.586,0,0.606,10.598,259,12.41,0.66,0.13,4.374,111011,Replan-approach-close
+264,S3,3,4,Medium,QIO-Rust,24,1,Success,64.98,0.518,0,0.505,9.301,235,17.77,0.547,0.161,4.621,111110,Replan-approach-close
+265,S3,3,4,Medium,QIO-Rust,25,1,Success,58.35,0.858,0,0.67,10.593,271,17.75,0.587,0.158,3.927,000110,Replan-approach-close
+266,S3,3,4,Medium,QIO-Rust,26,1,Success,78.32,0.583,0,0.632,9.02,243,26.62,0.511,0.126,4.383,100010,Replan-approach-close
+267,S3,3,4,Medium,QIO-Rust,27,1,Success,60.6,0.54,0,0.539,11.558,248,19.18,0.667,0.164,4.378,001101,Replan-approach-close
+268,S3,3,4,Medium,QIO-Rust,28,1,Success,70.73,0.684,0,0.653,10.186,183,17.91,0.744,0.114,4.331,001000,Replan-approach-close
+269,S3,3,4,Medium,QIO-Rust,29,1,Success,65.33,0.525,0,0.439,10.231,268,17.98,0.651,0.151,4.431,110101,Replan-approach-close
+270,S3,3,4,Medium,QIO-Rust,30,1,Success,70.82,0.742,0,0.576,9.013,217,14.92,0.642,0.162,4.394,101000,Replan-approach-close
+271,S4,5,6,High,GA,1,1,Success,165.53,1.153,0,0.869,12.656,363,7.57,0.544,0.228,3.793,101011,Retreat-replan-verify-grasp
+272,S4,5,6,High,GA,2,0,Collision,170.38,1.25,1,0.813,13.387,307,11.74,0.637,0.208,3.64,001110,Retreat-replan-verify-grasp
+273,S4,5,6,High,GA,3,1,Success,135.87,1.171,0,0.823,13.535,388,12.11,0.836,0.225,3.752,000111,Retreat-replan-verify-grasp
+274,S4,5,6,High,GA,4,1,Success,143.96,0.99,0,0.796,13.123,323,8.72,0.79,0.222,4.002,011010,Retreat-replan-verify-grasp
+275,S4,5,6,High,GA,5,0,Failed grasp,154.09,1.032,0,0.815,13.518,345,12.08,0.719,0.228,3.891,011010,Retreat-replan-verify-grasp
+276,S4,5,6,High,GA,6,0,Failed grasp,138.81,1.393,0,0.87,13.226,313,12.43,0.69,0.247,3.513,000000,Retreat-replan-verify-grasp
+277,S4,5,6,High,GA,7,0,Failed grasp,161.08,1.43,0,0.815,12.916,345,10.85,0.678,0.256,3.665,100111,Retreat-replan-verify-grasp
+278,S4,5,6,High,GA,8,1,Success,154.15,1.391,0,0.78,12.554,405,11.03,0.662,0.272,3.511,001100,Retreat-replan-verify-grasp
+279,S4,5,6,High,GA,9,1,Success,160.36,1.207,0,0.771,13.785,325,12.08,0.678,0.208,3.795,011001,Retreat-replan-verify-grasp
+280,S4,5,6,High,GA,10,1,Success,155.93,1.318,0,0.789,12.321,376,9.19,0.787,0.154,3.68,010100,Retreat-replan-verify-grasp
+281,S4,5,6,High,GA,11,0,Collision,165.58,1.145,1,0.896,12.966,342,9.82,0.7,0.161,3.895,010100,Retreat-replan-verify-grasp
+282,S4,5,6,High,GA,12,1,Success,143.49,1.232,0,0.732,13.39,381,9.99,0.774,0.231,3.835,011011,Retreat-replan-verify-grasp
+283,S4,5,6,High,GA,13,1,Success,147.36,1.014,0,0.716,13.85,334,13.03,0.788,0.249,3.893,001001,Retreat-replan-verify-grasp
+284,S4,5,6,High,GA,14,0,Failed grasp,146.76,1.26,0,0.792,11.584,349,11.65,0.66,0.185,3.803,111010,Retreat-replan-verify-grasp
+285,S4,5,6,High,GA,15,1,Success,127.88,1.208,0,0.841,14.105,336,11.56,0.76,0.19,3.742,100011,Retreat-replan-verify-grasp
+286,S4,5,6,High,GA,16,1,Success,160.1,1.106,0,0.781,14.152,319,11.05,0.577,0.247,3.846,101111,Retreat-replan-verify-grasp
+287,S4,5,6,High,GA,17,1,Success,146.28,1.058,0,0.74,13.283,395,16.16,0.698,0.211,4.038,111010,Retreat-replan-verify-grasp
+288,S4,5,6,High,GA,18,1,Success,157.7,1.26,0,0.805,12.613,351,11.56,0.647,0.222,3.703,101111,Retreat-replan-verify-grasp
+289,S4,5,6,High,GA,19,0,Failed grasp,149.0,0.797,0,0.841,13.249,300,12.38,0.715,0.235,4.292,101001,Retreat-replan-verify-grasp
+290,S4,5,6,High,GA,20,1,Success,153.04,1.292,0,0.786,12.384,357,12.64,0.752,0.208,3.647,111000,Retreat-replan-verify-grasp
+291,S4,5,6,High,GA,21,0,Collision,116.4,1.029,1,0.84,14.309,367,9.84,0.774,0.197,3.974,101001,Retreat-replan-verify-grasp
+292,S4,5,6,High,GA,22,1,Success,127.64,1.106,0,0.762,14.253,399,16.54,0.732,0.187,3.907,011001,Retreat-replan-verify-grasp
+293,S4,5,6,High,GA,23,1,Success,151.45,1.334,0,0.819,13.525,415,6.51,0.578,0.246,3.563,000110,Retreat-replan-verify-grasp
+294,S4,5,6,High,GA,24,1,Collision,167.79,1.204,1,0.89,12.862,341,8.62,0.829,0.212,3.873,011000,Retreat-replan-verify-grasp
+295,S4,5,6,High,GA,25,1,Success,152.98,1.05,0,0.768,12.097,336,8.07,0.68,0.267,3.838,000000,Retreat-replan-verify-grasp
+296,S4,5,6,High,GA,26,1,Collision,158.87,1.43,1,0.781,12.492,339,10.28,0.688,0.2,3.721,001101,Retreat-replan-verify-grasp
+297,S4,5,6,High,GA,27,1,Success,150.15,0.76,0,0.683,13.165,373,12.73,0.807,0.232,4.207,111100,Retreat-replan-verify-grasp
+298,S4,5,6,High,GA,28,0,Failed grasp,151.89,1.061,0,0.862,14.118,362,11.46,0.702,0.227,3.99,001111,Retreat-replan-verify-grasp
+299,S4,5,6,High,GA,29,1,Success,149.03,0.86,0,0.738,12.62,357,13.67,0.69,0.2,4.222,010100,Retreat-replan-verify-grasp
+300,S4,5,6,High,GA,30,1,Success,149.8,1.258,0,0.826,14.175,372,7.78,0.797,0.235,3.658,110010,Retreat-replan-verify-grasp
+301,S4,5,6,High,PSO,1,1,Success,137.92,1.051,0,0.803,11.62,288,12.35,0.635,0.216,3.936,100000,Retreat-replan-verify-grasp
+302,S4,5,6,High,PSO,2,0,Collision,106.29,0.891,1,0.696,11.931,282,13.16,0.628,0.211,4.096,101101,Retreat-replan-verify-grasp
+303,S4,5,6,High,PSO,3,1,Success,104.36,1.197,0,0.776,12.694,271,8.52,0.737,0.211,3.769,100000,Retreat-replan-verify-grasp
+304,S4,5,6,High,PSO,4,1,Success,130.54,0.875,0,0.706,13.162,331,10.37,0.626,0.237,4.139,000010,Retreat-replan-verify-grasp
+305,S4,5,6,High,PSO,5,1,Success,146.3,1.009,0,0.786,11.897,323,16.26,0.776,0.247,3.958,100000,Retreat-replan-verify-grasp
+306,S4,5,6,High,PSO,6,1,Success,118.09,1.213,0,0.857,11.747,316,8.92,0.748,0.203,3.714,001101,Retreat-replan-verify-grasp
+307,S4,5,6,High,PSO,7,1,Success,120.13,0.886,0,0.726,13.314,291,10.37,0.487,0.221,4.097,110001,Retreat-replan-verify-grasp
+308,S4,5,6,High,PSO,8,1,Success,106.27,0.811,0,0.804,13.307,355,10.38,0.885,0.179,4.128,011111,Retreat-replan-verify-grasp
+309,S4,5,6,High,PSO,9,1,Success,126.89,0.906,0,0.747,11.625,312,14.68,0.625,0.208,4.254,100101,Retreat-replan-verify-grasp
+310,S4,5,6,High,PSO,10,1,Success,133.96,1.101,0,0.727,12.432,302,9.52,0.665,0.232,4.046,010000,Retreat-replan-verify-grasp
+311,S4,5,6,High,PSO,11,1,Success,107.39,0.664,0,0.763,12.978,298,16.38,0.784,0.234,4.441,101100,Retreat-replan-verify-grasp
+312,S4,5,6,High,PSO,12,1,Success,116.31,1.061,0,0.65,12.27,264,13.53,0.779,0.234,4.001,111111,Retreat-replan-verify-grasp
+313,S4,5,6,High,PSO,13,0,Failed grasp,142.56,1.05,0,0.741,11.521,289,7.52,0.758,0.246,3.952,111101,Retreat-replan-verify-grasp
+314,S4,5,6,High,PSO,14,0,Failed grasp,153.03,0.868,0,0.733,12.353,327,12.43,0.802,0.212,4.112,000111,Retreat-replan-verify-grasp
+315,S4,5,6,High,PSO,15,0,Failed grasp,127.12,0.982,0,0.749,11.49,319,9.71,0.682,0.218,4.114,010101,Retreat-replan-verify-grasp
+316,S4,5,6,High,PSO,16,1,Success,133.62,1.135,0,0.768,14.4,346,10.34,0.612,0.234,3.745,100010,Retreat-replan-verify-grasp
+317,S4,5,6,High,PSO,17,0,Failed grasp,143.72,0.652,0,0.89,12.152,259,14.06,0.679,0.227,4.37,001101,Retreat-replan-verify-grasp
+318,S4,5,6,High,PSO,18,1,Success,125.72,1.013,0,0.647,12.448,298,7.9,0.809,0.236,4.046,011000,Retreat-replan-verify-grasp
+319,S4,5,6,High,PSO,19,0,Failed grasp,111.13,0.874,0,0.757,13.003,330,7.02,0.683,0.212,3.981,100001,Retreat-replan-verify-grasp
+320,S4,5,6,High,PSO,20,1,Success,122.09,1.025,0,0.703,12.652,337,10.14,0.658,0.179,3.781,110111,Retreat-replan-verify-grasp
+321,S4,5,6,High,PSO,21,1,Collision,127.78,1.095,1,0.729,11.197,304,13.52,0.698,0.234,3.981,010100,Retreat-replan-verify-grasp
+322,S4,5,6,High,PSO,22,1,Success,129.13,0.869,0,0.827,13.356,295,5.0,0.616,0.269,4.25,011110,Retreat-replan-verify-grasp
+323,S4,5,6,High,PSO,23,1,Success,129.08,1.032,0,0.668,11.605,330,10.42,0.732,0.246,3.902,011001,Retreat-replan-verify-grasp
+324,S4,5,6,High,PSO,24,0,Collision,145.97,1.175,1,0.75,12.591,336,11.91,0.661,0.25,3.878,011111,Retreat-replan-verify-grasp
+325,S4,5,6,High,PSO,25,1,Success,156.33,1.105,0,0.744,11.856,332,9.34,0.86,0.205,3.998,101011,Retreat-replan-verify-grasp
+326,S4,5,6,High,PSO,26,1,Success,123.69,0.96,0,0.712,11.946,333,13.03,0.661,0.186,4.021,001011,Retreat-replan-verify-grasp
+327,S4,5,6,High,PSO,27,1,Success,142.3,0.917,0,0.735,11.893,287,11.41,0.855,0.2,4.089,011100,Retreat-replan-verify-grasp
+328,S4,5,6,High,PSO,28,1,Success,121.48,0.927,0,0.802,12.501,307,11.37,0.734,0.231,3.96,001111,Retreat-replan-verify-grasp
+329,S4,5,6,High,PSO,29,0,Failed grasp,116.82,0.692,0,0.696,13.632,296,11.1,0.56,0.214,4.209,001100,Retreat-replan-verify-grasp
+330,S4,5,6,High,PSO,30,1,Success,131.23,1.016,0,0.853,12.837,336,12.71,0.724,0.211,3.849,000001,Retreat-replan-verify-grasp
+331,S4,5,6,High,QIO-Rust,1,1,Success,98.48,0.824,0,0.605,10.94,288,14.18,0.641,0.205,4.174,000011,Retreat-replan-verify-grasp
+332,S4,5,6,High,QIO-Rust,2,1,Success,86.9,0.699,0,0.699,12.589,271,13.91,0.659,0.218,4.24,101010,Retreat-replan-verify-grasp
+333,S4,5,6,High,QIO-Rust,3,1,Success,90.36,0.828,0,0.607,11.466,282,13.02,0.659,0.238,4.156,001000,Retreat-replan-verify-grasp
+334,S4,5,6,High,QIO-Rust,4,1,Success,80.5,0.807,0,0.791,12.356,234,11.42,0.698,0.18,4.264,101001,Retreat-replan-verify-grasp
+335,S4,5,6,High,QIO-Rust,5,1,Success,88.37,0.742,0,0.79,11.962,276,8.7,0.775,0.193,4.23,100100,Retreat-replan-verify-grasp
+336,S4,5,6,High,QIO-Rust,6,0,Failed grasp,73.97,0.789,0,0.665,11.382,216,8.93,0.8,0.189,4.208,111101,Retreat-replan-verify-grasp
+337,S4,5,6,High,QIO-Rust,7,1,Success,93.35,0.804,0,0.746,11.554,277,8.72,0.582,0.219,4.233,011100,Retreat-replan-verify-grasp
+338,S4,5,6,High,QIO-Rust,8,1,Success,99.46,0.714,0,0.761,11.714,258,9.8,0.787,0.222,4.139,000100,Retreat-replan-verify-grasp
+339,S4,5,6,High,QIO-Rust,9,1,Success,90.82,0.557,0,0.734,11.679,285,11.26,0.614,0.205,4.674,101111,Retreat-replan-verify-grasp
+340,S4,5,6,High,QIO-Rust,10,1,Success,81.92,0.794,0,0.682,11.201,248,11.2,0.735,0.235,4.211,010110,Retreat-replan-verify-grasp
+341,S4,5,6,High,QIO-Rust,11,1,Collision,94.4,0.604,1,0.75,11.852,284,7.01,0.642,0.256,4.432,101111,Retreat-replan-verify-grasp
+342,S4,5,6,High,QIO-Rust,12,1,Success,96.78,0.908,0,0.634,12.062,243,14.05,0.79,0.206,4.113,001010,Retreat-replan-verify-grasp
+343,S4,5,6,High,QIO-Rust,13,1,Success,88.02,0.719,0,0.79,12.125,252,12.04,0.762,0.223,4.262,110000,Retreat-replan-verify-grasp
+344,S4,5,6,High,QIO-Rust,14,0,Failed grasp,108.2,0.455,0,0.692,11.807,296,14.56,0.74,0.228,4.527,100010,Retreat-replan-verify-grasp
+345,S4,5,6,High,QIO-Rust,15,1,Success,99.21,0.778,0,0.771,10.903,295,10.91,0.769,0.227,4.163,100000,Retreat-replan-verify-grasp
+346,S4,5,6,High,QIO-Rust,16,0,Failed grasp,85.75,0.73,0,0.739,12.552,273,12.15,0.621,0.211,4.315,100110,Retreat-replan-verify-grasp
+347,S4,5,6,High,QIO-Rust,17,1,Success,104.36,0.817,0,0.818,10.98,224,5.2,0.828,0.207,4.167,111001,Retreat-replan-verify-grasp
+348,S4,5,6,High,QIO-Rust,18,1,Success,87.68,0.672,0,0.627,11.705,212,11.73,0.665,0.233,4.427,000010,Retreat-replan-verify-grasp
+349,S4,5,6,High,QIO-Rust,19,1,Success,93.26,0.511,0,0.706,10.88,297,10.52,0.722,0.222,4.518,111011,Retreat-replan-verify-grasp
+350,S4,5,6,High,QIO-Rust,20,0,Failed grasp,95.62,0.794,0,0.734,13.224,274,10.09,0.702,0.212,4.274,001110,Retreat-replan-verify-grasp
+351,S4,5,6,High,QIO-Rust,21,1,Success,89.03,0.818,0,0.697,12.22,273,13.42,0.806,0.222,4.187,100111,Retreat-replan-verify-grasp
+352,S4,5,6,High,QIO-Rust,22,1,Success,86.19,0.632,0,0.678,11.137,253,13.38,0.714,0.204,4.482,001110,Retreat-replan-verify-grasp
+353,S4,5,6,High,QIO-Rust,23,1,Success,92.71,0.606,0,0.612,10.347,270,11.68,0.781,0.207,4.469,100100,Retreat-replan-verify-grasp
+354,S4,5,6,High,QIO-Rust,24,1,Success,95.95,0.734,0,0.563,12.723,266,6.65,0.708,0.18,4.204,011001,Retreat-replan-verify-grasp
+355,S4,5,6,High,QIO-Rust,25,1,Success,96.27,0.816,0,0.687,11.743,257,8.84,0.567,0.249,4.206,000111,Retreat-replan-verify-grasp
+356,S4,5,6,High,QIO-Rust,26,1,Success,72.15,0.719,0,0.765,11.358,272,10.99,0.764,0.176,4.315,101111,Retreat-replan-verify-grasp
+357,S4,5,6,High,QIO-Rust,27,1,Success,101.69,0.686,0,0.816,12.455,234,11.74,0.81,0.221,4.342,001000,Retreat-replan-verify-grasp
+358,S4,5,6,High,QIO-Rust,28,1,Success,73.91,0.754,0,0.703,11.574,312,13.87,0.694,0.21,4.108,001010,Retreat-replan-verify-grasp
+359,S4,5,6,High,QIO-Rust,29,1,Success,88.19,0.648,0,0.75,11.132,232,8.91,0.581,0.2,4.428,100001,Retreat-replan-verify-grasp
+360,S4,5,6,High,QIO-Rust,30,1,Collision,105.11,0.664,1,0.716,12.439,272,8.8,0.763,0.236,4.34,111101,Retreat-replan-verify-grasp
